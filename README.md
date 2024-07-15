@@ -11,7 +11,7 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym. Dołożę wszelkic
 starań, aby udowodnić, że jestem osobą ambitną i chętną do poszerzania swojej 
 wiedzy.
 
-## Projekty
+## Projekty:
 <ul>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Test plan oraz przypadki testowe</a></li>
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
@@ -19,3 +19,5 @@ wiedzy.
 <li><a href="https://youtu.be/75e71rICGrI">Mr Buggy&Jira</a></li>
  <li><a href="https://youtu.be/AOLgUmCeG2Q">Postman automatyzacja z Newman</a></li>
 </ul>
+## Certyfikaty:
+ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
