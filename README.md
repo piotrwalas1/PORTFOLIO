@@ -10,3 +10,4 @@ dotychczasowej karierze zawodowej zdobyłem potrzebne umiejętności
 komunikacyjne do pracy w zespole jak i z klientem biznesowym. Dołożę wszelkich 
 starań, aby udowodnić, że jestem osobą ambitną i chętną do poszerzania swojej 
 wiedzy.
+## Portfolio
