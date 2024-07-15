@@ -11,4 +11,4 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym. Dołożę wszelkic
 starań, aby udowodnić, że jestem osobą ambitną i chętną do poszerzania swojej 
 wiedzy.
 
-## Portfolio
+## Projekty
