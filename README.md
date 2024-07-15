@@ -1,5 +1,5 @@
-#### Piotr Walas
-## Tester oprogramowania
+## Piotr Walas
+### Tester oprogramowania
 Jestem osobą skrupulatną, dokładną, dbającą o szczegóły zawsze starającą się 
 udoskonalić swoją rzeczywistość, która chce realizować się jako tester 
 oprogramowania. Kończąc studia informatyczne oraz kursy zdobyłem 
