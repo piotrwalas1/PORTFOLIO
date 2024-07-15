@@ -12,4 +12,4 @@ starań, aby udowodnić, że jestem osobą ambitną i chętną do poszerzania sw
 wiedzy.
 
 ## Projekty
-<a href="[https://github.com/piotrwalas1/PORTFOLIO](https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf)">Test plan oraz przypadki testowe</a>
+<a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Test plan oraz przypadki testowe</a>
