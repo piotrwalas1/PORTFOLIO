@@ -1,5 +1,5 @@
 <h1> Piotr Walas - Tester oprogramowania</h1>
-Jestem osobą skrupulatną, dokładną, dbającą o szczegóły zawsze starającą się
+<center>Jestem osobą skrupulatną, dokładną, dbającą o szczegóły zawsze starającą się
 "udoskonalić" swoją rzeczywistość, która postanowiła, że czas na zmiany! Jestem
 głodny wiedzy i nowych wyzwań dlatego postanowiłem zostać testerem
 oprogramowania. Praca testera pozwala mi wykorzystać moją kreatywność,
@@ -11,7 +11,7 @@ poziom podstawowy, wersja 4.0, praktyczne umiejętności obsługi Postman,
 SoapUI, Cypress, Selenium. W dotychczasowej karierze zawodowej zdobyłem
 potrzebne umiejętności komunikacyjne do pracy w zespole jak i z klientem
 biznesowym. Dołożę wszelkich starań, aby udowodnić, że jestem osobą ambitną i
-chętną do poszerzania swojej wiedzy.
+chętną do poszerzania swojej wiedzy.</center>
 
 
 ## Projekty:
