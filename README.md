@@ -19,5 +19,6 @@ wiedzy.
 <li><a href="https://youtu.be/75e71rICGrI">Mr Buggy&Jira</a></li>
  <li><a href="https://youtu.be/AOLgUmCeG2Q">Postman automatyzacja z Newman</a></li>
 </ul>
+
 ## Certyfikaty:
 ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
