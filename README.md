@@ -22,3 +22,16 @@ wiedzy.
 
 ## Certyfikaty:
 ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
+
+## Szkolenia, kursy:
+<ul>
+ <li>Podstawy manualnego testowania oprogramowania. -Udemy</li>
+ <li>Praktyczny kurs testowania oprogramowania. -Udemy</li>
+<li>WebServices/Rest API Testing with SoapUI +Real time Projects.</li>
+<li>Kurs Selenium Java od podstaw. -Udemy</li>
+<li>Postman od podstaw - testowanie REST-API</li>
+<li>Kurs SQL/MYSQL. -Udemy</li>
+<li></li>Kurs Jira - zarządzanie projektami. -Udemy</li>
+<li>Cpress od podstaw – Automatyzacja testów. -Udemy</li>
+<li>Język angielski B2- nadal</li>
+</ul>
