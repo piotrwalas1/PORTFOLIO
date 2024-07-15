@@ -12,3 +12,4 @@ starań, aby udowodnić, że jestem osobą ambitną i chętną do poszerzania sw
 wiedzy.
 
 ## Projekty
+<a href="https://github.com/piotrwalas1/PORTFOLIO">Test plan oraz przypadki testowe</a>
