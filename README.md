@@ -26,8 +26,8 @@ chętną do poszerzania swojej wiedzy.</center>
 
 ## Wykształcenie: 
 <strong>Uniwersytet Ekonomiczny w Krakowie</strong>
-Kierunek: <strong>informatyka i ekonometria</strong> – poziom: <strong>magister</strong>
-Specjalizacja: <strong>informatyka ekonomiczna</strong>
+<br>Kierunek: <strong>informatyka i ekonometria</strong> – poziom: <strong>magister</strong></br>
+<br>Specjalizacja: <strong>informatyka ekonomiczna</strong></br>
 
 ## Certyfikaty:
 ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
