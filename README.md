@@ -13,8 +13,6 @@ potrzebne umiejętności komunikacyjne do pracy w zespole jak i z klientem
 biznesowym. Dołożę wszelkich starań, aby udowodnić, że jestem osobą ambitną i
 chętną do poszerzania swojej wiedzy.</center>
 
-## <a href="www.linkedin.com/in/piotr-walas-2650a62b5">LINKEDLN</a>
-
 
 ## Projekty:
 <ul>
@@ -46,3 +44,8 @@ ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
 <li>Cpress od podstaw – Automatyzacja testów. -Udemy</li>
 <li>Język angielski B2- nadal</li>
 </ul>
+
+## Kontakt:
+email: walas_p@interia.pl
+Linkedln: <a href="https://www.linkedin.com/in/piotr-walas-2650a62b5">Linkedln Link</a>
+
