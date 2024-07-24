@@ -13,6 +13,8 @@ potrzebne umiejętności komunikacyjne do pracy w zespole jak i z klientem
 biznesowym. Dołożę wszelkich starań, aby udowodnić, że jestem osobą ambitną i
 chętną do poszerzania swojej wiedzy.</center>
 
+## <a href="www.linkedin.com/in/piotr-walas-2650a62b5">LINKEDLN</a>
+
 
 ## Projekty:
 <ul>
