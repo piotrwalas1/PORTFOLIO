@@ -43,7 +43,7 @@ ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
 <li>Postman od podstaw - testowanie REST-API</li>
 <li>Kurs SQL/MYSQL. -Udemy</li>
 <li>Kurs Jira - zarządzanie projektami. -Udemy</li>
-<li>Cpress od podstaw – Automatyzacja testów. -Udemy</li>
+<li>Cypress od podstaw – Automatyzacja testów. -Udemy</li>
 <li>Język angielski B2- nadal</li>
 </ul>
 
