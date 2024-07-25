@@ -27,9 +27,13 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
 
 
 ## Wykształcenie: 
-<strong>Uniwersytet Ekonomiczny w Krakowie</strong>
+<ul>
+<li><strong>Uniwersytet Ekonomiczny w Krakowie</strong>
 <br>Kierunek: <strong>informatyka i ekonometria</strong> – poziom: <strong>magister</strong></br>
-<strong>Specjalizacja: <strong>informatyka ekonomiczna</strong>
+<strong>Specjalizacja: <strong>informatyka ekonomiczna</strong></strong></li>
+<li><br>Technikum Elektroniczne</br>
+ Specjalizacja - Elektronika
+</li></ul>
 
 ## Certyfikaty:
 ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
