@@ -31,7 +31,7 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
 <li><strong>Uniwersytet Ekonomiczny w Krakowie</strong>
 <br>Kierunek: <strong>informatyka i ekonometria</strong> – poziom: <strong>magister</strong></br>
 <strong>Specjalizacja: <strong>informatyka ekonomiczna</strong></strong></li>
-<li><br>Technikum Elektroniczne</br>
+<br><li>Technikum Elektroniczne</br>
  Specjalizacja - Elektronika
 </li></ul>
 
