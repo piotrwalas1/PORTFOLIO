@@ -21,7 +21,7 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Test plan oraz przypadki testowe 2</a></li>
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
 <li><a href="https://youtu.be/ry0coIrIam8">Trello dodawanie nowej tablicy i listy oraz usuwanie z poziomu api</a></li>
-<li><a href="https://youtu.be/75e71rICGrI">Raportowanie Buga w Jira</a></li>
+<li><a href="https://youtu.be/75e71rICGrI">Raportowanie w Jira</a></li>
  <li><a href="https://youtu.be/AOLgUmCeG2Q">Postman automatyzacja z Newman</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/sql.pdf">SQL</a></li>
 </ul>
