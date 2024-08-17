@@ -19,7 +19,7 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
 <ul>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/TE_test_report-2024-08-06.pdf">Testowanie eksploracyjne, test plan oraz przypadki testowe</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Test plan oraz przypadki testowe 2</a></li>
- <li><a href="https://youtu.be/2WA2mN5jAxc>Cypress test E2E + asercia</a></li>
+ <li><a href="https://youtu.be/2WA2mN5jAxc">Cypress test E2E + asercia</a></li>
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
 <li><a href="https://youtu.be/ry0coIrIam8">Trello dodawanie nowej tablicy i listy oraz usuwanie z poziomu api</a></li>
 <li><a href="https://youtu.be/75e71rICGrI">Raportowanie w Jira</a></li>
@@ -50,6 +50,7 @@ ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
 <li>Kurs SQL/MYSQL. -Udemy</li>
 <li>Kurs Jira - zarządzanie projektami. -Udemy</li>
 <li>Cypress od podstaw – Automatyzacja testów. -Udemy</li>
+ <li>BPMN w pigułce - szkolenie z ekspertem. -Udemy</li>
 <li>Język angielski B2- nadal</li>
 </ul>
 
