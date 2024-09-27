@@ -24,6 +24,7 @@ komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
  <li><a href="https://youtu.be/TcbFRrHZDPk">Selenium -przypadek testowy -dodawanie nowego konta</a></li>
  <li><a href="https://youtu.be/NcaB9kL26W0">Selenium -przypadek testowy -zakup w sklepie E2E</a></li>
  <li><a href="https://youtu.be/XBSL9QZ8WBc">Selenium -przypadek testowy -zakup w sklepie E2E + asercja</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20Testowanie%20procesu%20zakupu%20E2E%20(Suite%20ID_%208).pdf">Selenium -przypadek testowy -zakup w sklepie E2E + asercja - opis</a></li>
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
 <li><a href="https://youtu.be/ry0coIrIam8">Trello dodawanie nowej tablicy i listy oraz usuwanie z poziomu api</a></li>
 <li><a href="https://youtu.be/75e71rICGrI">Raportowanie w Jira</a></li>
