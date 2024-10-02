@@ -1,7 +1,7 @@
 <h1> Piotr Walas - Tester oprogramowania</h1>
 <center>Jestem osobą <b>skrupulatną, dokładną, samodzielną, dbającą o szczegóły</b> zawsze starającą się "udoskonalić" swoją rzeczywistość, która postanowiła, że <b>czas na zmiany!</b> Jestem <b>głodny wiedzy i nowych wyzwań</b> dlatego postanowiłem zostać testerem oprogramowania. Praca testera pozwala mi wykorzystać moją <b>kreatywność, wrodzoną skłonność do znajdywania błędów, szukania "dziury w całym",</b> a jednocześnie pozostać osobą empatyczną, starającą się spojrzeć na pracę drugiej osoby z jej punktu widzenia. Podczas szkoleń oraz wielomiesięcznych indywidualnych <b>testów manualnych jak i automatyzujących</b> z Selenium, Cypress rozwinęłem umiejętności<b> testerskie oraz analityczne. Potrafię tworzyć i utrzymywać czytelne i przejrzyste przypadki testowe, plany testów, scenariusze, raporty z testów, testować API za pomocą Postman, SoapUI oraz znam SQL i Git.</b> Natomiast w dotychczasowej karierze zawodowej zdobyłem potrzebne <b>umiejętności komunikacyjne do pracy w zespole jak i z klientem.</b></center>
-<br><b>Technologie/narzędzia:</b><i>
-Jira, TestLink, Azure DevOps, SQL/MySQL, GIT/GITHUB, Postman, SoapUI, Testowanie REST-API, Selenium, Cypress, Java, JavaScript, C++, HTML.</i></br>
+<br><b>Technologie/narzędzia:<i>
+Jira, TestLink, Azure DevOps, SQL/MySQL, GIT/GITHUB, Postman, SoapUI, Testowanie REST-API, Selenium, Cypress, Java, JavaScript, C++, HTML.</i></b></br>
 
 
 ## Projekty:
