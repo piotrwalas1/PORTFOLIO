@@ -1,18 +1,7 @@
 <h1> Piotr Walas - Tester oprogramowania</h1>
-<center>Jestem osobą skrupulatną, dokładną, dbającą o szczegóły zawsze starającą się
-"udoskonalić" swoją rzeczywistość, która postanowiła, że czas na zmiany! Jestem
-głodny wiedzy i nowych wyzwań dlatego postanowiłem zostać testerem
-oprogramowania. Praca testera pozwala mi wykorzystać moją kreatywność,
-wrodzoną skłonność do znajdywania błędów, szukania "dziury w całym", a
-jednocześnie pozostać osobą empatyczną, starającą się spojrzeć na pracę drugiej
-osoby z jej punktu widzenia. Tak jak w życiu, jak i pracy zawsze staram się znaleźć
-nowy sposób na "udoskonalenie" oprogramowania lub wykorzystanie go w
-nietypowy sposób. Kończąc studia informatyczne oraz kursy zdobyłem
-umiejętności potrzebne do pracy jako tester manualny jak i automatyzujący.
-Posiadam również certyfikat ISTQB certyfikowany tester – poziom podstawowy,
-wersja 4.0, praktyczne umiejętności obsługi Postman, SoapUI, Cypress, Selenium,
-a w dotychczasowej karierze zawodowej zdobyłem potrzebne umiejętności
-komunikacyjne do pracy w zespole jak i z klientem biznesowym.</center>
+<center>Jestem osobą skrupulatną, dokładną, samodzielną, dbającą o szczegóły zawsze starającą się "udoskonalić" swoją rzeczywistość, która postanowiła, że czas na zmiany! Jestem głodny wiedzy i nowych wyzwań dlatego postanowiłem zostać testerem oprogramowania. Praca testera pozwala mi wykorzystać moją kreatywność, wrodzoną skłonność do znajdywania błędów, szukania "dziury w całym", a jednocześnie pozostać osobą empatyczną, starającą się spojrzeć na pracę drugiej osoby z jej punktu widzenia. Podczas szkoleń oraz wielomiesięcznych indywidualnych testów manualnych jak i automatyzujących z Selenium, Cypress rozwinęłem umiejętności testerskie oraz analityczne. Potrafię tworzyć i utrzymywać czytelne i przejrzyste przypadki testowe, plany testów, scenariusze, raporty z testów, testować API za pomocą Postman, SoapUI oraz znam SQL i Git. Natomiast w dotychczasowej karierze zawodowej zdobyłem potrzebne umiejętności komunikacyjne do pracy w zespole jak i z klientem.
+Technologie/narzędzia:
+Jira, TestLink, Azure DevOps, SQL/MySQL, GIT/GITHUB, Postman, SoapUI, Testowanie REST-API, Selenium, Cypress, Java, JavaScript, C++, HTML.</center>
 
 
 ## Projekty:
