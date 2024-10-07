@@ -7,11 +7,15 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Postman, Soap
 ## Projekty:
 <ul>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20test_%20skleptest.pl%20project%20(Suite%20ID_%2025).pdf">Test plan strony skleptest.pl</a></li>
- <ul><li>Przykładoowe błędy strony skleptest.pl</li>
- <select>
-  <option><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">BUG69</a></option>
-  <option><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/b1.pdf">BUG83</a></option>
- </select>
+ <ul>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/b1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  
  </ul>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20PLAN%20TESTÓW%20-%20strony%20internetowej%20https___fakestore.testelka.pl%20(Suite%20ID_%206).pdf">Test plan + przypadek testowy strony fakestore.testelka.pl </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/TE_test_report-2024-08-06.pdf">Testowanie eksploracyjne, test plan oraz przypadki testowe</a></li>
