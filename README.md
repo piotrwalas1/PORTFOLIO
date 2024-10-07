@@ -6,7 +6,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Postman, Soap
 
 ## Projekty:
 <ul>
- <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20test_%20skleptest.pl%20project%20(Suite%20ID_%2025).pdf">Test plan strony skleptest.pl</a></li>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20plan_%20Test%20plan%20sklepu%20skleptest.pl%20%2B%20przypadki%20testowe.pdf">Test plan strony skleptest.pl + przypadki testowe</a></li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
