@@ -8,9 +8,22 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 
 ## Projekty:
 <ul>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
  <ul>
- <li><a href="https://youtu.be/haFLIa3D41o">Xopro-logowanie-przypadki testowe-automatyzacja Selenium </a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-blad1.pdf">Xopero-znaleziony błąd </a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20GUI.pdf">Xopero-Testowanie eksploracyjne- 
+  Lista kontrolna GUI</a></li>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20-linki%20na%20stronie.pdf">Xopero-Testowanie eksploracyjne- 
+  Lista kontrolna-Linki</a></li>
+  <li><a href="https://youtu.be/haFLIa3D41o">Xopero-logowanie-przypadki testowe-automatyzacja Selenium </a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id2.pdf">Xopero-przykładowy przypadek testowy</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id3.pdf">Xopero-przykładowy przypadek testowy</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-d4.pdf">Xopero-przykładowy przypadek testowy</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id5.pdf">Xopero-przykładowy przypadek testowy</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id6.pdf">Xopero-przykładowy przypadek testowy </a></li>
 
+
+  
  </ul>
  
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20plan_%20Test%20plan%20sklepu%20skleptest.pl%20%2B%20przypadki%20testowe.pdf">Test plan strony skleptest.pl + przypadki testowe</a></li>
