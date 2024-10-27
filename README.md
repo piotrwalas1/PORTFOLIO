@@ -8,6 +8,8 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 
 ## Projekty:
 <ul>
+ <li><a href="https://youtu.be/haFLIa3D41o">Xopro-logowanie-przypadki testowe-automatyzacja Selenium </a></li>
+ 
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20plan_%20Test%20plan%20sklepu%20skleptest.pl%20%2B%20przypadki%20testowe.pdf">Test plan strony skleptest.pl + przypadki testowe</a></li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
