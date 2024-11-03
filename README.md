@@ -37,6 +37,10 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   
  </ul>
+
+<li><a href="https://youtu.be/n9gIcmOMPNU">Selenium-wakacje.pl-wybór wycieczki </a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/wakacje.pdf">Selenium-wakacje.pl-wybór wycieczki-kod</a></li>
+ 
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20PLAN%20TESTÓW%20-%20strony%20internetowej%20https___fakestore.testelka.pl%20(Suite%20ID_%206).pdf">Test plan + przypadek testowy strony fakestore.testelka.pl </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/TE_test_report-2024-08-06.pdf">Testowanie eksploracyjne, test plan oraz przypadki testowe</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Test plan oraz przypadki testowe 2</a></li>
