@@ -8,7 +8,20 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 
 ## Projekty:
 <ul>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
+  
+ 
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20plan_%20Test%20plan%20sklepu%20skleptest.pl%20%2B%20przypadki%20testowe.pdf">Test plan strony skleptest.pl + przypadki testowe</a></li>
+ <ul>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/b1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
+  
+ </ul>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-blad1.pdf">Xopero-znaleziony błąd </a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20GUI.pdf">Xopero-Testowanie eksploracyjne- 
@@ -23,18 +36,6 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id6.pdf">Xopero-przykładowy przypadek testowy </a></li>
 
 
-  
- </ul>
- 
- <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20plan_%20Test%20plan%20sklepu%20skleptest.pl%20%2B%20przypadki%20testowe.pdf">Test plan strony skleptest.pl + przypadki testowe</a></li>
- <ul>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/a1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/d3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/b1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   
  </ul>
 
