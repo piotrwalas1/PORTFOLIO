@@ -45,14 +45,16 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/wakacje.pdf">Selenium-wakacje.pl-wybór wycieczki-kod</a></li>
  </ul>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20PLAN%20TESTÓW%20-%20strony%20internetowej%20https___fakestore.testelka.pl%20(Suite%20ID_%206).pdf">Test plan + przypadek testowy strony fakestore.testelka.pl </a></li>
+<ul> <li><a href="https://youtu.be/TcbFRrHZDPk">Selenium -przypadek testowy -dodawanie nowego konta</a></li>
+
+ <li><a href="https://youtu.be/XBSL9QZ8WBc">Selenium -przypadek testowy -zakup w sklepie E2E + asercja</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20Testowanie%20procesu%20zakupu%20E2E%20(Suite%20ID_%208).pdf">Selenium -przypadek testowy -zakup w sklepie E2E + asercja - opis</a></li>
+</ul>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/TE_test_report-2024-08-06.pdf">Aplikacja AUTOPAY Testowanie eksploracyjne, test plan oraz przypadki testowe</a></li>
 
  <li><a href="https://youtu.be/2WA2mN5jAxc">Cypress test E2E + asercja</a></li>
  <li><a href="https://youtu.be/8h3oCCvXjSs">Selenium -przypadek testowy -proces rezerwacji hotelu E2E</a></li>
- <li><a href="https://youtu.be/TcbFRrHZDPk">Selenium -przypadek testowy -dodawanie nowego konta</a></li>
-
- <li><a href="https://youtu.be/XBSL9QZ8WBc">Selenium -przypadek testowy -zakup w sklepie E2E + asercja</a></li>
-<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20Testowanie%20procesu%20zakupu%20E2E%20(Suite%20ID_%208).pdf">Selenium -przypadek testowy -zakup w sklepie E2E + asercja - opis</a></li>
+ 
  <li><a href="https://youtu.be/VdX79Av1Mlk">Selenium -przypadki testowe -weryfikacja logowania</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20Weryfikacja%20procesu%20logowania%20(Suite%20ID_%2012).pdf">Selenium -przypadki testowe -weryfikacja logowania - opis</a></li>
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
