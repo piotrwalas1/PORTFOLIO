@@ -38,8 +38,9 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
 
   
  </ul>
-<ul>
+
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Wakacje.pl Test plan oraz przypadki testowe 2</a></li> 
+<ul>
 <li><a href="https://youtu.be/n9gIcmOMPNU">Selenium-wakacje.pl-wybór wycieczki </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/wakacje.pdf">Selenium-wakacje.pl-wybór wycieczki-kod</a></li>
  </ul>
