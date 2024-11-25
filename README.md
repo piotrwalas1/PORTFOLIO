@@ -19,7 +19,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/b1.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e2.pdf">Przykładowy błąd strony skleptest.pl</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/e3.pdf">Przykładowy błąd strony skleptest.pl</a></li>
-  
+   <li><a href="https://youtu.be/NcaB9kL26W0">Selenium -przypadek testowy -zakup w sklepie E2E</a></li>
  </ul>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
  <ul>
@@ -50,7 +50,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
  <li><a href="https://youtu.be/2WA2mN5jAxc">Cypress test E2E + asercja</a></li>
  <li><a href="https://youtu.be/8h3oCCvXjSs">Selenium -przypadek testowy -proces rezerwacji hotelu E2E</a></li>
  <li><a href="https://youtu.be/TcbFRrHZDPk">Selenium -przypadek testowy -dodawanie nowego konta</a></li>
- <li><a href="https://youtu.be/NcaB9kL26W0">Selenium -przypadek testowy -zakup w sklepie E2E</a></li>
+
  <li><a href="https://youtu.be/XBSL9QZ8WBc">Selenium -przypadek testowy -zakup w sklepie E2E + asercja</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Test%20suite_%20Testowanie%20procesu%20zakupu%20E2E%20(Suite%20ID_%208).pdf">Selenium -przypadek testowy -zakup w sklepie E2E + asercja - opis</a></li>
  <li><a href="https://youtu.be/VdX79Av1Mlk">Selenium -przypadki testowe -weryfikacja logowania</a></li>
