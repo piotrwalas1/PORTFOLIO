@@ -24,6 +24,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postm
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-blad1.pdf">Xopero-znaleziony błąd </a></li>
+<li><a href="https://youtu.be/EP9xIpe0NUM">Xopero-znaleziony błąd -film</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20GUI.pdf">Xopero-Testowanie eksploracyjne- 
   Lista kontrolna GUI</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20-linki%20na%20stronie.pdf">Xopero-Testowanie eksploracyjne- 
