@@ -3,7 +3,7 @@
 <br><b><h2>Umiejętności</h2><i>
  Skuteczna komunikacja, wnikliwa analiza, kreatywna wyobraźnia, detektywistyczne podejście do znajdowania błędów.</i></b></br>
 <br><b><h2>Technologie/narzędzia:</h2><i>
-Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postman, SoapUI, Testowanie REST-API, Selenium, Cypress, Java, JavaScript, C++, HTML, + wiele nowych które wkrótce poznam</i></b></br>
+Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, Postman, SoapUI, Testowanie REST-API, Selenium, Cypress, Java, JavaScript, C++, HTML, AWS, + wiele nowych które wkrótce poznam</i></b></br>
 
 
 ## Projekty:
