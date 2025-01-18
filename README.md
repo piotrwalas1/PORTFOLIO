@@ -90,6 +90,7 @@ ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
 <li>Kurs Jira - zarządzanie projektami. -Udemy</li>
 <li>Cypress od podstaw – Automatyzacja testów. -Udemy</li>
  <li>Docker od podstaw - dla programistów i nie tylko. - Udemy</li>
+  <li>Wprowadzenie do AWS</li>
  <li>Kompleksowy kurs Azure DevOps dla każdego. - Udemy</li>
  <li>BPMN w pigułce - szkolenie z ekspertem. -Udemy</li>
 <li>Język angielski B2- nadal</li>
