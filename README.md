@@ -86,6 +86,7 @@ ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0
 <li>WebServices/Rest API Testing with SoapUI +Real time Projects.</li>
 <li>Kurs Selenium Java od podstaw. -Udemy</li>
 <li>Postman od podstaw - testowanie REST-API</li>
+<li>Learn JMETER from Scratch on Live Apps -Performance Testing</li>
 <li>Kurs SQL/MYSQL. -Udemy</li>
 <li>Kurs Jira - zarządzanie projektami. -Udemy</li>
 <li>Cypress od podstaw – Automatyzacja testów. -Udemy</li>
