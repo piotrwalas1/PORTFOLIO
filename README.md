@@ -58,6 +58,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
  <li><a href="https://youtu.be/2WA2mN5jAxc">Cypress test E2E + asercja</a></li>
  <li><a href="https://youtu.be/8h3oCCvXjSs">Selenium -przypadek testowy -proces rezerwacji hotelu E2E</a></li>
  <li><a href="https://youtu.be/TcbFRrHZDPk">Selenium -przypadek testowy -dodawanie nowego konta</a></li>
+ <li><a href="https://youtu.be/kNE8EZzvHf8">JMeter -przypadek testowy</a></li>
 
 <li><a href="https://youtu.be/Lfj4O_ybb2M">Gra Arkanoid</a></li>
 <li><a href="https://youtu.be/ry0coIrIam8">Trello dodawanie nowej tablicy i listy oraz usuwanie z poziomu api</a></li>
