@@ -66,6 +66,11 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
  <li><a href="https://youtu.be/AOLgUmCeG2Q">Postman automatyzacja z Newman</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/sql.pdf">SQL</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Zespół%2014%20-%20Zadanie%203%20-%20Finalna%20praca.pdf">AI Document Simplifier (WCAG Compliance) - praca zespołowa w ramach AIDEAS</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/finalny%20przeplyw.jpg">Test AI Agents – Proof of Concept - Stworzenie zespołu agentów AI do generowania przypadków testowych na podstawie dokumentacji projektowej. </a></li>
+ <ul>
+  <li><a href="https://youtu.be/OTUNZPEidOU">Przepływ film</a></li>
+
+ 
 </ul>
 
 
