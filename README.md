@@ -65,6 +65,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
 <li><a href="https://youtu.be/75e71rICGrI">Raportowanie w Jira</a></li>
  <li><a href="https://youtu.be/AOLgUmCeG2Q">Postman automatyzacja z Newman</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/sql.pdf">SQL</a></li>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Zespół%2014%20-%20Zadanie%203%20-%20Finalna%20praca.pdf">AI Document Simplifier (WCAG Compliance) - praca zespołowa w ramach AIDEAS</a></li>
 </ul>
 
 
