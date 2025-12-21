@@ -39,7 +39,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/raport%20Xopero.pdf">Xopero raport z testów </a></li>
  </ul>
 
-<li>Testy beta aplikacji: galaxyaiwhisper.app</li>
+<li>Testy beta aplikacji: galaxyaiwhisper.app - przykladowe zgłoszenia błędów</li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb1%20po%20kliknieciu%20w%20zakladke%20odczyt%20tarota%20widzimy%20bialy%20ekran.pdf">id1 po kliknieciu w zakladke odczyt tarota widzimy bialy ekran</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb2%20nie%20da%20się%20zakończyć%20okresu%20próbnego.pdf">id2 nie da się zakończyć okresu próbnego</a></li>
