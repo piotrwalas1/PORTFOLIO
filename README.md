@@ -37,9 +37,24 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id5.pdf">Xopero-przykładowy przypadek testowy</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id6.pdf">Xopero-przykładowy przypadek testowy </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/raport%20Xopero.pdf">Xopero raport z testów </a></li>
-
-  
  </ul>
+
+<li>Testy beta aplikacji: galaxyaiwhisper.app</li>
+ <ul>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb1%20po%20kliknieciu%20w%20zakladke%20odczyt%20tarota%20widzimy%20bialy%20ekran.pdf">id1 po kliknieciu w zakladke odczyt tarota widzimy bialy ekran</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb2%20nie%20da%20się%20zakończyć%20okresu%20próbnego.pdf">id2 nie da się zakończyć okresu próbnego</a></li>
+  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb3%20Ikona%20„active”%20przysłania%20licznik%20użyć.pdf">id3 Ikona „active” przysłania licznik użyć</a></li>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb4%20dwa%20różne%20języki%20w%20zakładce%20subskrypcja.pdf">id4 dwa różne języki w zakładce subskrypcja</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb5%20dwa%20różne%20język.pdf">id5 dwa różne język</a></li>
+   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb6%20pole%20nr%20karty%20przyjmuje%20również%20litery.pdf">id6 pole nr karty przyjmuje również litery</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb7%20funkcja%20wsparcie%20klienta.pdf">id7 funkcja wsparcie klienta</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb8%20nie%20da%20się%20wyslac%20zalacznika.pdf">id8 nie da się wyslac zalacznika</a></li>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/tb9%20brak%20możliwości%20zmiany%20języka.pdf">id9 brak możliwości zmiany języka</a></li>
+ </ul>
+
+
+
+ 
 
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Plan%20testów%20oraz%20weryfikacja%20systemu%20logowania.pdf">Wakacje.pl Test plan oraz przypadki testowe </a></li> 
 <ul>
