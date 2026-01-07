@@ -27,7 +27,7 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/przypadki%20testowe%20santander.pdf">Przykładowe przypadki testowe strony bankowej santander.pl</a></li> 
  </ul>
  
- <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
+ <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan - projekt własny</a></li>
  <ul>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-blad1.pdf">Xopero-znaleziony błąd </a></li>
 <li><a href="https://youtu.be/EP9xIpe0NUM">Xopero-znaleziony błąd -film</a></li>
