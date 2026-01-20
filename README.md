@@ -25,6 +25,8 @@ Jira, Xray, TestLink, Trello, Azure DevOps, SQL/MySQL, GIT/GITHUB, Docker, JMete
  <ul>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/test%20plan%20Santander.pdf">Plan testów strony bankowej santander.pl</a></li>
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/przypadki%20testowe%20santander.pdf">Przykładowe przypadki testowe strony bankowej santander.pl</a></li> 
+ <li><a href="https://youtu.be/CQmDnuCeFf4">Przykładowa automatyzacja Tc1 i Tc2 Selenium/Java</a></li> 
+  
  </ul>
  
  <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan - projekt własny</a></li>
